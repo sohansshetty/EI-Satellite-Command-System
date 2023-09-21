@@ -10,7 +10,7 @@ public class Main {
 
         while (true) {
             // Display current state of the satellite.
-            System.out.println("\nCurrent State:");
+            System.out.println("\n----Current State----");
             System.out.println("Orientation: " + satellite.getOrientation());
             System.out.println("Solar Panels: " + (satellite.areSolarPanelsActive() ? "active" : "inactive"));
             System.out.println("Data Collected: " + satellite.getDataCollected());
