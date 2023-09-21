@@ -15,8 +15,18 @@ Before running the program, make sure you have the following:
 
 2. Open the project in your preferred Java development environment.
 
-3. Build and run the `Main.java` file to start the Satellite Command System.
+3. Compile and run the `Main.java` file to start the Satellite Command System.
 
+To compile the program using the command line, use the following command:
+
+```bash
+javac Main.java
+```
+To run the program using the command line, use the following command:
+
+```bash
+java Main.java
+```
 ## Usage
 
 Upon running the program, you will see a console-based menu that allows you to interact with the satellite. Here are the available options:
